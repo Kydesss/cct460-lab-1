@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Poppins:wght@400;500;700&display=swap");
+
+.nav-text {
+    font-family: "Poppins", sans-serif;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.2px;
+    line-height: 1em;
+    gap: 6px;
+    font-weight: 500;
+    font-size: 0.75em;
+    text-decoration: none;
+    width: fit-content;
+}
+.nav-text:hover {
+    color: #ff6b6b;
+    transition: 0.3s ease-in-out;
+}
+.navbar-brand {
+    font-family: "Poppins", sans-serif;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.2px;
+    line-height: 1em;
+    gap: 6px;
+    font-weight: 500;
+    font-size: 1em;
+    text-decoration: none;
+}
+.navbar-brand:hover {
+    color: #ff6b6b;
+    transition: 0.3s ease-in-out;
+}
+.hero-text {
+    font-family: "Poppins", sans-serif;
+    /* color: rgb(0, 0, 0); */
+    letter-spacing: 0.2px;
+    gap: 6px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.hero-section {
+    height: 400px;
+}
+.footer-header {
+    font-family: "Poppins", sans-serif;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.2px;
+    line-height: 1em;
+    gap: 6px;
+    font-weight: 500;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+.card-head {
+    font-family: "Poppins", sans-serif;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.2px;
+    gap: 6px;
+    font-weight: 500;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.card-text {
+    font-family: "Poppins", sans-serif;
+    color: rgba(255, 255, 255);
+    letter-spacing: 0.2px;
+    line-height: 1.5em;
+    gap: 6px;
+    font-weight: 400;
+    font-size: 1em;
+    text-decoration: none;
+}
